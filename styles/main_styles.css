@@ -307,8 +307,6 @@ section
 	position: fixed;
 	top: 0;
 	left: 0;
-	display: block;
-	position: relative;
 	width: 100%;
 	background: blue;
 	-webkit-animation-fill-mode: both;

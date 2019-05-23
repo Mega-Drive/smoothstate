@@ -31,7 +31,7 @@ $(document).ready(function()
 			cacheLength: 2,
 			onStart:
 			{
-				duration: 2000, // Duration of our animation
+				duration: 8000, // Duration of our animation
 				render: function ($container)
 				{
 					// Add your CSS animation reversing class

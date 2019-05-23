@@ -317,6 +317,8 @@ section
 }
 #main.is-exiting .main_content
 {
-	-webkit-animation-direction: alternate-reverse;
-  	animation-direction: alternate-reverse;
+	/*-webkit-animation-direction: alternate-reverse;
+  	animation-direction: alternate-reverse;*/
+  	-webkit-animation-name: fadeOutDown;
+    animation-name: fadeOutDown;
 }

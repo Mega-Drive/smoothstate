@@ -317,10 +317,13 @@ section
 }
 #main.is-exiting .main_content
 {
-	/*-webkit-animation-direction: alternate-reverse;
-  	animation-direction: alternate-reverse;*/
-  	-webkit-animation-name: fadeOutDown;
+#main.is-exiting .main_content
+{
+	-webkit-animation-direction: alternate-reverse;
+  	animation-direction: alternate-reverse;
+  	/*-webkit-animation-name: fadeOutDown;
     animation-name: fadeOutDown;
-    -webkit-animation-duration:8000ms !important;
-    animation-duration:8000ms !important;
+    -webkit-animation-duration: 2000ms;
+    animation-duration: 2000ms;*/
+}
 }

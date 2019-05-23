@@ -338,8 +338,8 @@ section
 }
 #main.is-exiting .header
 {
-	-webkit-animation-name: fadeOutUp;
-    animation-name: fadeOutUp;
+	-webkit-animation-name: fadeOut;
+    animation-name: fadeOut;
     -webkit-animation-duration: 400ms;
     animation-duration: 400ms;
 }

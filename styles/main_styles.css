@@ -336,8 +336,8 @@ section
 {
 	-webkit-animation-name: fadeOutUp;
     animation-name: fadeOutUp;
-    -webkit-animation-duration: 2000ms;
-    animation-duration: 2000ms;
+    -webkit-animation-duration: 400ms;
+    animation-duration: 400ms;
 }
 #main.is-exiting .main_content
 {
@@ -345,6 +345,6 @@ section
   	animation-direction: alternate-reverse;*/
   	-webkit-animation-name: fadeOutDown;
     animation-name: fadeOutDown;
-    -webkit-animation-duration: 4000ms;
-    animation-duration: 4000ms;
+    -webkit-animation-duration: 3000ms;
+    animation-duration: 3000ms;
 }

@@ -321,6 +321,6 @@ section
   	animation-direction: alternate-reverse;*/
   	-webkit-animation-name: fadeOutDown;
     animation-name: fadeOutDown;
-    -webkit-animation-duration:2000ms !important;
-    animation-duration:2000ms !important;
+    -webkit-animation-duration:8000ms !important;
+    animation-duration:8000ms !important;
 }
